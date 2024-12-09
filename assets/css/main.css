@@ -348,7 +348,7 @@ a h6:hover {
 	display: flex;
 }
 .social-icons li {
-	margin-right: 20px;
+	margin-right: 10px;
 }
 .social-icons li:last-child {
 	margin-right: 0;
@@ -1064,7 +1064,7 @@ body.loaded {
 }
 .hero-content-box .button-box {
 	margin-top: 50px;
-	gap: 25px;
+	gap: 10px;
 }
 .hero-content-box .button-box .tj-btn-secondary {
 	display: flex;
